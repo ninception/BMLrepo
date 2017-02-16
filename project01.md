@@ -1,14 +1,23 @@
-# Project Things
+## Project List
 
-## Things to be done before mdsm
+### Before midsem
+
+- Properly understand the concepts behind VI and SVI
+
 - Atleast a broad understanding using the two papers using the two examples
   - Dirichlet example (ninad)
   - Second example (arman)
 
-- Atleast write a rough report
+- Prepare a rough report
+
 - Search for a new distribution for application of SVI (Can ask sir later also)
+
+- Maybe some demo?
 
 ---------------
 
-## After mdsm
+### After midsem
+
 - Install Tensorflow and Edward in Anaconda (after mdsm)
+
+- Submit a midsem report
