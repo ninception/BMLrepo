@@ -14,9 +14,12 @@
 - Maybe some demo
 
 ---------------
-
-
-
 - Install Tensorflow and Edward in Anaconda (after mdsm)
 
 - Submit a midsem report
+
+-----
+
+## Resources
+
+[link name](link url)
