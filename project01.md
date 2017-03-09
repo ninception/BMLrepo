@@ -23,3 +23,4 @@
 ## Resources
 
 [link name](link url)
+[Talk on SVI](http://techtalks.tv/talks/stochastic-variational-inference/57865/)
