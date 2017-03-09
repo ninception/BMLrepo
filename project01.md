@@ -1,6 +1,5 @@
 ## Project List
 
-### Before midsem
 
 - Properly understand the concepts behind VI and SVI
 
@@ -12,11 +11,11 @@
 
 - Search for a new distribution for application of SVI (Can ask sir later also)
 
-- Maybe some demo?
+- Maybe some demo
 
 ---------------
 
-### After midsem
+
 
 - Install Tensorflow and Edward in Anaconda (after mdsm)
 
