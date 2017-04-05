@@ -1,10 +1,8 @@
-# BMLrepo
+## BMLrepo (Bayesian ML)
 
-## Bayesian Machine Learning 
+### Project Idea
 
-## Project Idea
-
-### Online variational Bayesian inference, also called "stochastic variational inference" (SVI)
+**Online variational Bayesian inference, also called "stochastic variational inference" (SVI)**
 
 Variational inference is a general framework for doing approximate posterior inference for Bayesian models (here is a recent survey on the topic: https://arxiv.org/pdf/1601.00670.pdf). SVI is an "online" way of doing variational inference. It enables scaling up Bayesian models to massive data sets and is very similar to stochastic gradient based methods used for online learning. There is a good survey paper on this topic (http://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf) published in 2013. Since then, there has been a lot of activity on this topic. Some possible projects:
 
@@ -14,7 +12,7 @@ Variational inference is a general framework for doing approximate posterior inf
 
 ---
 
-### Other advances
+**Other advances**
 
 Another interesting project on variational inference would be to look at more advanced variational inference methods that address some of the limitations of variational inference (e.g., fully factorized assumption, handling non-conjugate distributions, distributed variational inference, etc.), thinking of improving these and/or using it to do inference for some Bayesian model (I can suggest some options). Some relevant papers are (list not exhaustive): 
 
