@@ -12,7 +12,7 @@
 
 ## Resources
 
-- [Stochastic Variational Inference - Hoffman, JMLR 2013(http://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+- [Stochastic Variational Inference - Hoffman, JMLR 2013](http://jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
 
 - [Variational Inference: A Review for Statisticians - DM BLei, arxiv](https://arxiv.org/pdf/1601.00670.pdf)
 
