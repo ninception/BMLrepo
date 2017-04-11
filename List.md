@@ -18,3 +18,4 @@
 
 - [Talk on SVI by Blei](http://techtalks.tv/talks/stochastic-variational-inference/57865/)
 
+- [Topic Models -- Blei Lafferty 2009](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf)
