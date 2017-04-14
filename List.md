@@ -20,4 +20,6 @@
 
 - [Topic Models - Blei Lafferty 2009](http://www.cs.columbia.edu/~blei/papers/BleiLafferty2009.pdf)
 
+- [Online Learning for Latent Dirichlet Allocation](http://www.cs.columbia.edu/~blei/papers/HoffmanBleiBach2010b.pdf)
+
 - [Youtube video explanation: VI for LDA](https://youtu.be/2pEkWk-LHmU)
